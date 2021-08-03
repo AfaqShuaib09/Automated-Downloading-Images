@@ -1,8 +1,4 @@
 #Automating Downloading picture in the Desired directory
-# Modules Required
-# 1. Mechancical Soup for web scraping
-# 2. os for creating the directory
-# 3. w.get to download the file
 import mechanicalsoup
 import os
 import wget
